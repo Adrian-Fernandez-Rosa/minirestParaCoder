@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "88578d7e-3399-4ac2-8d4d-2eb552f685e0",
+		"name": "CODERlibreria",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Prestamo",
+			"item": [
+				{
+					"name": "pedirprestamo",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
